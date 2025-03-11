@@ -1,0 +1,2 @@
+# Medallion-Architecture-Data-Warehouse---Business-Insights-KPI-Analysis
+ This repository implements a Medallion Architecture-based Data Warehouse for Business Intelligence (BI) &amp; Analytics, featuring Single Big Table (SBT) design, Fact-Dimension Modeling, and optimized SQL queries for key business KPIs. It includes structured ETL workflows, performance-tuned queries, and aggregated views for insightful data analysis.
